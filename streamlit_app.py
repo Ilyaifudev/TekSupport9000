@@ -1,5 +1,5 @@
 import streamlit as st
-from eliza import Eliza  # Ensure Eliza is in the same directory
+from eliza_engine import Eliza  # Ensure Eliza is in the same directory
 
 # Initialize Eliza bot
 eliza_bot = Eliza()
