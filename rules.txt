@@ -1,0 +1,52 @@
+# General Issues
+COMPUTER IS SLOW -> Try restarting your computer to clear up memory. Close unused applications. You can also disable startup programs or consider upgrading your RAM.
+INTERNET NOT WORKING -> Check your router or modem. Make sure it's powered on and all cables are securely connected. Try restarting the router and reconnecting to your Wi-Fi.
+PRINTER NOT RESPONDING -> Ensure the printer is powered on and connected. Check for any error messages on the printer. Restart both your printer and computer.
+OVERHEATING -> Ensure your computer's fans are running and not blocked by dust. Place it in a well-ventilated area and avoid running too many applications simultaneously.
+SOUND NOT WORKING -> Check if your audio device is connected. Ensure the volume is not muted in your operating system or on external speakers. Update audio drivers if needed.
+
+# Blue Screen or Boot Issues
+BLUE SCREEN OF DEATH -> This may indicate hardware issues or corrupted drivers. Boot into Safe Mode and uninstall recently installed drivers or updates.
+UNABLE TO BOOT -> Check the power supply and make sure the computer is properly connected to a power source. Try disconnecting all external devices and boot into Safe Mode.
+
+# Peripherals and Accessories
+KEYBOARD NOT WORKING -> If it's a wired keyboard, try plugging it into a different USB port. For wireless keyboards, check the battery and re-pair it with your computer.
+MOUSE NOT WORKING -> Check if your mouse is connected and powered. Try another USB port for wired mice, or replace the batteries for wireless ones.
+PRINTER JAMMED -> Open the printer cover and carefully remove any jammed paper. Avoid pulling the paper too hard to prevent damage.
+
+# File and Software Issues
+FILE NOT OPENING -> Ensure the file format is supported by the application. For corrupted files, try using a repair tool or restoring from a backup.
+SOFTWARE NOT INSTALLING -> Ensure you have enough disk space and administrative privileges. Check if the software is compatible with your operating system.
+APPLICATION CRASHING -> Restart the application. If the issue persists, uninstall and reinstall the application. Check for available updates or patches.
+
+# Network Problems
+WI-FI DISCONNECTED -> Make sure your Wi-Fi is turned on. Restart the router and reconnect to the network. Check if other devices are also disconnected.
+SLOW INTERNET SPEED -> Run a speed test to confirm your internet speed. Restart your router, and ensure no other devices are consuming bandwidth.
+CAN'T ACCESS WEBSITE -> Check if the website is down using a service like "Is It Down Right Now." Clear your browser cache and cookies, then try again.
+
+# Hardware Troubleshooting
+GRAPHICS CARD NOT DETECTED -> Ensure the graphics card is seated properly in its slot. Update or reinstall the drivers from the manufacturer's website.
+FAN NOT WORKING -> Open the case and check if the fan is spinning. If not, clean it using compressed air. Replace the fan if it's damaged.
+HARD DRIVE NOT DETECTED -> Check if the SATA/Power cables are properly connected. Run diagnostics in your BIOS to verify the hard drive's status.
+
+# Performance Issues
+LAGGING GAMES -> Lower the game settings to reduce strain on your hardware. Update your graphics card drivers for better performance.
+DISK SPACE FULL -> Uninstall unnecessary programs, delete temporary files, and move large files to an external drive or cloud storage.
+
+# Email and Communication
+EMAIL NOT SENDING -> Verify your internet connection. Ensure the recipient's email address is correct and your inbox isn't full.
+CAN'T RECEIVE EMAIL -> Check if your spam folder contains the missing emails. Ensure your email client is synced and has no server issues.
+
+# Security
+VIRUS OR MALWARE -> Run a full system scan using an antivirus program. Disconnect from the internet to prevent further damage. Remove suspicious applications.
+PASSWORD RESET -> Use the "Forgot Password" option on the service you’re trying to access. Check your email for password reset instructions.
+FIREWALL BLOCKING -> Temporarily disable the firewall to see if it resolves the issue. Add an exception for the application in the firewall settings.
+
+# Data and Backup
+LOST DATA -> Use a recovery tool like Recuva to attempt data restoration. Check your cloud backups or external drives for a copy.
+BACKUP FAILED -> Ensure the backup destination has enough space. Restart the backup application and try again.
+
+# Miscellaneous
+CAMERA NOT WORKING -> Ensure your camera is connected or enabled in your operating system. Check privacy settings to grant access to the application.
+TOUCHSCREEN NOT RESPONDING -> Clean the screen to ensure it is free of debris. Restart the device, and check for software updates.
+USB DEVICE NOT RECOGNIZED -> Try reconnecting the device to a different USB port. Update USB drivers in Device Manager.
