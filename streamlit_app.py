@@ -1,11 +1,30 @@
 import streamlit as st
-from eliza_engine import Eliza  # Import the Eliza class from eliza_engine.py
+from eliza_engine import Eliza  # Ensure this imports correctly
+
+# Function to Add Custom Background
+def add_custom_background():
+    st.markdown(
+        f"""
+        <style>
+        .stApp {{
+            background-image: url("https://i.ibb.co/h1CpXg0/peakpx.jpg");
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+# Add the custom background
+add_custom_background()
 
 # Initialize Eliza bot
 eliza_bot = Eliza()
 eliza_bot.load('rules.txt')  # Load tech support rules from rules.txt
 
-# Streamlit interface
+# Streamlit Interface
 st.title("Tech Support AI Agent")
 st.write("Welcome! I'm your tech support assistant. How can I help you today?")
 
